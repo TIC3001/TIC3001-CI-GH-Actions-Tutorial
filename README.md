@@ -19,7 +19,7 @@ Before starting, ensure that you have the following:
 
 ## Initial Setup
 
-1. Fork/clone the repository [https://github.com/CS3219-AY2324S1/SE-Toolbox-CI-GH-Actions.git ](https://github.com/CS3219-AY2324S1/SE-Toolbox-CI-GH-Actions.git) to your device. 
+1. Fork/clone the repository [https://github.com/TIC3001/TIC3001-CI-GH-Actions-Tutorial-Code](https://github.com/TIC3001/TIC3001-CI-GH-Actions-Tutorial-Code) to your device. 
 
    > ℹ️ About the project: The repository contains the backend code of an address book application, one that is similar to what you have seen in CS2103/T or CS2113/T but developed in JavaScript. The backend is equipped with basic functionalities, including the ability to add, retrieve, edit, and delete information, by connecting to MongoDB Atlas – a cloud database. Furthermore, the `test` directory includes a set of integration tests. You will see that they are automatically executed in the CI workflow later.
 
@@ -143,14 +143,15 @@ A GitHub Actions workflow has been established to automate the build and test pr
 
 🎉Congratulations on successfully following this CI with GitHub Actions guide!
 
+## Use of AI Acknowledgement
+This guide's outline was generated with the help of ChatGPT. 
+
 ## References
 Here are the resources that were used to create this guide:
 
 GitHub Docs - Building and testing Node.js: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-nodejs
 
 MongoDB in GitHub Actions: https://github.com/marketplace/actions/mongodb-in-github-actions
-
-Outline generated with [ChatGPT](https://openai.com/blog/chatgpt)
 
 ## Other Resources
 
