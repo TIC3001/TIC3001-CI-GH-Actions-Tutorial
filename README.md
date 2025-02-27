@@ -147,9 +147,9 @@ This guide's outline was generated with the help of ChatGPT.
 ## References
 Here are the resources that were used to create this guide:
 
-GitHub Docs - Building and testing Node.js: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-nodejs
+[GitHub Docs - Building and testing Node.js](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-nodejs)
 
-MongoDB in GitHub Actions: https://github.com/marketplace/actions/mongodb-in-github-actions
+[MongoDB in GitHub Actions](https://github.com/marketplace/actions/mongodb-in-github-actions)
 
 ## Other Resources
 
